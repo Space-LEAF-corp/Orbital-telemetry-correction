@@ -1,0 +1,1 @@
+python -m orbital_telemetry.cli --config examples/demo_config.json --out results.json
